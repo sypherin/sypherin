@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sypherin from Singapore!
+- 👋 Hi, I’m @sypherin from Singapore! My real name is Zach Aw
 - 👀 I’m interested in emulation, driver hacks, coding, gaming
 - 🌱 I’m currently learning python, cloud, AI
 - 💞️ I’m looking to collaborate on anything
