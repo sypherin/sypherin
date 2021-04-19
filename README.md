@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sypherin
-- 👀 I’m interested in emulation, driver hacks,
+- 👀 I’m interested in emulation, driver hacks
 - 🌱 I’m currently learning python, cloud, AI
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me zachawyj@gmail.com 
